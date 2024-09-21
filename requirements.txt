@@ -3,3 +3,7 @@ pdfplumber
 openai
 pinecone
 streamlit-chat
+langchain_openai
+langchain
+langchain_community
+utils
