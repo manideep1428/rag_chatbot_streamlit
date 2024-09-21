@@ -1,5 +1,5 @@
 streamlit
 pdfplumber
 openai
-pinecone-client
+pinecone
 streamlit-chat
