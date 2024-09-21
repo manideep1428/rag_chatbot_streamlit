@@ -1,0 +1,5 @@
+streamlit
+pdfplumber
+openai
+pinecone-client
+streamlit-chat
